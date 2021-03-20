@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![tjeong's 42 stats](https://badge42.herokuapp.com/api/stats/tjeong)](https://github.com/JaeSeoKim/badge42)
+[![tjeong's 42 stats](https://badge42.herokuapp.com/api/stats/tjeong)](https://github.com/jts8257/badge42)
 
 <!--
 **jts8257/jts8257** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
