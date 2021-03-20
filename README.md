@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img = https://img.shields.io/github/followers/jts8257?style=social>
+<img src="https://img.shields.io/github/followers/jts8257?style=social">
+
+![](https://img.shields.io/github/followers/AlpoxDev?style=social)
