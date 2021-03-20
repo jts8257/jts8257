@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 <img src="https://img.shields.io/github/followers/jts8257?style=social">
 
-![](https://img.shields.io/github/followers/AlpoxDev?style=social)
+<!-- ![](https://img.shields.io/github/followers/AlpoxDev?style=social) -->
