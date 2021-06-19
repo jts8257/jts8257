@@ -1,5 +1,6 @@
 - 🔭 I’m currently working on <b>Java Project & 42Seoul Project</b>
-- 🌱 I’m currently learning <b>Java,C & AWS</b>
+- 🌱 I’m currently learning <b>Java,C & AWS, RDB</b>
+- 🎯 My Ultimate Goal : BackEnd Engineer(Data Engineer)
 
 [![tjeong's 42 stats](https://badge42.herokuapp.com/api/stats/tjeong)](https://github.com/jts8257)
 
