@@ -1,5 +1,5 @@
-- 🔭 I’m currently working on Java Project & 42Seoul Project
-- 🌱 I’m currently learning Java,C & AWS
+- 🔭 I’m currently working on <b>Java Project & 42Seoul Project</b>
+- 🌱 I’m currently learning <b>Java,C & AWS</b>
 
 [![tjeong's 42 stats](https://badge42.herokuapp.com/api/stats/tjeong)](https://github.com/jts8257)
 
