@@ -1,3 +1,6 @@
+- 🔭 I’m currently working on Java Project & 42Seoul Project
+- 🌱 I’m currently learning Java,C & AWS
+
 [![tjeong's 42 stats](https://badge42.herokuapp.com/api/stats/tjeong)](https://github.com/jts8257)
 
 <!--
@@ -5,8 +8,6 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on Java Project & 42Seoul Project
-- 🌱 I’m currently learning Java,C & AWS
 
 <!--
 - 👯 I’m looking to collaborate on ...
