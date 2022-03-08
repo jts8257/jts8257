@@ -1,6 +1,5 @@
-- 🔭  I’m currently working on <b>Spring Project & 42Seoul Project</b>
-- 🌱  I’m currently learning <b>Java, Spring Framework, C & AWS, RDB</b>
-- 🎯  Ultimate Goal : BackEnd Engineer(Server Engineer)
+- 🔭  I’m currently working on <b>Android App Development & 42Seoul Project</b>
+- 🌱  I’m currently learning <b>Kotlin, Android</b>
 
 [![tjeong's 42 stats](https://badge42.herokuapp.com/api/stats/tjeong)](https://github.com/jts8257)
 
