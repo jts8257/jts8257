@@ -1,5 +1,4 @@
-- 🔭  I’m currently working on <b>Android App Development & 42Seoul Project</b>
-- 🌱  I’m currently learning <b>Kotlin, Android</b>
+- 🔭  I’m currently working on <b>Homes Company as a Flutter App&Web Developer</b>
 
 <!-- [![tjeong's 42 stats](https://badge42.herokuapp.com/api/stats/tjeong)](https://github.com/jts8257) -->
 
@@ -20,6 +19,7 @@ Here are some ideas to get you started:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jts8257)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jts8257&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 <!-- <img src="https://img.shields.io/github/followers/jts8257?style=social"> -->
 
 <!-- ![](https://img.shields.io/github/followers/AlpoxDev?style=social) -->
