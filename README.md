@@ -1,5 +1,3 @@
-- 🔭  I’m currently working on <b>Homes Company as a Flutter App&Web Developer</b>
-
 <!-- [![tjeong's 42 stats](https://badge42.herokuapp.com/api/stats/tjeong)](https://github.com/jts8257) -->
 
 <!--
