@@ -1,5 +1,5 @@
 <!-- [![tjeong's 42 stats](https://badge42.herokuapp.com/api/stats/tjeong)](https://github.com/jts8257) -->
-
+Often Develop Android, sometimes Android, occasionally Server. Love the Flutter programming.
 <!--
 **jts8257/jts8257** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
