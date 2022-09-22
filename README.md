@@ -1,6 +1,6 @@
 
 ## Skill
-- Main Language : ![image](https://img.shields.io/badge/-Java-white) and
+- Main Language : ![image](https://img.shields.io/badge/-Java-white),
 ![image](https://img.shields.io/badge/-Kotlin-white?logo=kotlin)
 
 - Sub Language : ![image](https://img.shields.io/badge/-python-white?logo=python), 
