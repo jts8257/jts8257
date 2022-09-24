@@ -9,8 +9,8 @@
 
 - Frameworks ![image](https://img.shields.io/badge/-Spring%20Boot-white?logo=springboot), 
 ![image](https://img.shields.io/badge/-Spring%20Security-white?logo=springsecurity),
-![image](https://img.shields.io/badge/-Spring%20Data%20JPA-white),
-![image](https://img.shields.io/badge/-Spring%20MVC-white)
+![image](https://img.shields.io/badge/-Spring%20Data%20JPA-white)
+<!--![image](https://img.shields.io/badge/-Spring%20MVC-white)-->
 
 - DataBase : ![image](https://img.shields.io/badge/-MySQL-white?logo=mysql), 
 ![image](https://img.shields.io/badge/-MongoDB-white?logo=mongodb),
