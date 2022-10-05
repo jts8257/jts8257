@@ -32,8 +32,3 @@
 - Android Developer (for 6month)
 - Spring Boot Backed Developer (for 6month)
   
-
-## My Repos Consist of these languages
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jts8257&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-
