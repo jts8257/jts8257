@@ -30,5 +30,5 @@
 ## Job Experience
 - Data analyst (for 1.5 Year)
 - Android Developer (for 6month)
-- Spring Boot Backed Developer (for 6month)
+- Spring Boot Backed Developer (now I'm working on)
   
